@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    int a = 453;
+    char star = '*';
+    
+    cout<<"Integer is "<<a<<"\tand the character is "<<star<<endl;
+    return 0;
+}
